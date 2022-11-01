@@ -45,7 +45,7 @@ const Navbar = () => {
                     <a className='flex justify-between items-center w-full text-slate-50 pl-4' target="_blank" href='https://github.com/MuditST'>Github<FaGithub size={30}/></a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-emerald-700'>
-                    <a className='flex justify-between items-center w-full text-slate-50 pl-4' target="_blank" href='mailto:"muditsinghtushir@gmail.com"'>E-Mail<FaMailBulk size={30}/></a>
+                    <a className='flex justify-between items-center w-full text-slate-50 pl-4' target="_blank" href='mailto:muditsinghtushir@gmail.com'>E-Mail<FaMailBulk size={30}/></a>
                 </li>
             </ul>
 
